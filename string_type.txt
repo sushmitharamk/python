@@ -1,0 +1,7 @@
+mystring = 'i am sushmitharam'
+
+print(mystring)
+
+mystring = "i am sushmitharam"
+
+print(mystring)
