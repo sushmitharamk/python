@@ -1,0 +1,4 @@
+squared = 7 ** 2
+power = 2 ** 10
+print(squared)
+print(power)

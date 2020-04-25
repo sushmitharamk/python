@@ -1,0 +1,2 @@
+name = "sushmitha ram"
+print("hi, i am %s!" % name)
