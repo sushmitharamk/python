@@ -1,0 +1,5 @@
+name = "Sushmitha Ram"
+print("the index of the character m in the string is %s"  % name.index("m"))
+print("the no of a's in the string name  is %s" % name.count("a"))
+print("the length of the string is %s" % len(name))
+print(name[3:7])
