@@ -1,0 +1,3 @@
+var="Hakuna Matata!"
+print("the string starts with Hakuna: %s " % var.startswith("Hakuna"))
+print("the string ends with jellyfish: %s " % var.endswith("jellyfish"))
