@@ -1,0 +1,3 @@
+vari = "Hakuna Matata!"
+splitted = vari.split(" ")
+print(splitted)
