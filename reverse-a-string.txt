@@ -1,0 +1,2 @@
+vari="Hakuna Matata!"
+print(vari[::-1])
