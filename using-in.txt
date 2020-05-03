@@ -1,0 +1,3 @@
+selected = "aman"
+if selected in ["aman", "arnav"]:
+    print("you are selected %s." % selected)
