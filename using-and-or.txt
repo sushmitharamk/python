@@ -1,0 +1,7 @@
+day = "Sunday"
+date = 3
+if day == "sunday" and date == 3:
+    print("today is sunday and 3rd.")
+
+if day == "sunday" or day == "monday":
+    print("today is either sunday or monday.")
