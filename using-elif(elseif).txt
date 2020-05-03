@@ -1,0 +1,7 @@
+x=7
+if x == 5:
+    print("it is 5")
+elif x==7:
+    print("not 5 but 7")
+else:
+    print("neither 5 nor 7")
